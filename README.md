@@ -5,7 +5,8 @@
 - 📫 How to reach me ,all right,nothing.
 
 1.branch,what is a branch
-
+wow  amazing
+it is really different
 
 <!---
 jianhong-101/jianhong-101 is a ✨ nomral ✨ repository because its `README.md` (this file) appears on your GitHub profile.
